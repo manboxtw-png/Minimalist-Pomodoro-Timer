@@ -5,7 +5,6 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/Minimalist-Pomodoro-Timer/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
