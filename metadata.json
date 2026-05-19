@@ -1,0 +1,6 @@
+{
+  "name": "Minimalist Pomodoro Timer",
+  "description": "A minimalist Pomodoro timer to help with focus and productivity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
